@@ -8,7 +8,7 @@ Recriando o jogo da cobrinha
 <ul>
     <li>Esse programa foi feito por fins de aprofundamento na linguagem e divertimento no tempo livre</li>
     <li>Jogue usando as setas do teclado</li>
-    <li>colete as bolas vermelhas</li>
+    <li>colete as comidas</li>
     <li>Não bata em si mesmo ou na parede</li>
 </ul>
 
