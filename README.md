@@ -19,6 +19,8 @@ Recriando o jogo da cobrinha
     <li><strong>Main: </strong>Arquivo Top Level onde todos os outros arquivos serão juntados (arquivo principal onde o jogo vai rodar) as funções estão adicionadas no inicio do script</li>
 </ul>
 
+<h3>É possivel mudar as configurações no arquivo settings</h3>
+
 
 
 
